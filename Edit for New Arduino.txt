@@ -1,0 +1,3 @@
+long __attribute__((used)) stepperWait = 0;
+
+in HAL.cpp
