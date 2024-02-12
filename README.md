@@ -1,4 +1,4 @@
-# PrintBox3d
+# PrintBox: PrintBox3d one, Printbox3D 270, PrintBox3d 180
 
 Прошивки к принтерам:
 PrintBox: PrintBox3d one, Printbox3D 270, PrintBox3d_180
